@@ -1,7 +1,8 @@
 ---
-# Band gap
+# NV center diamond
 ---
 
+## 1. Bulk properties
 | Method        | Band gap (eV) | Lattice constants (Å) |
 | :-------------: |:-------------:|:---------------------:|
 | PBE           | 4.16          |     3.57              |
