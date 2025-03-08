@@ -20,6 +20,14 @@ Using a supercell $3x3x3$.
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/PBE/N_C-V_C_-1/band_index/Spin_down-kpoint_1.png)
 
 ### 2.2. HSE06 functional
+| Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
+| :--------: |:------:|:-------------------------:| :---------:|
+|            | -3     |        0                  |     0      |
+|            | -2     |        1                  |    1/2     |
+|            | -1     |        2                  |     1      |
+| $N_C-V_C$  | 0      |        1                  |    1/2     |
+|            | +1     |        0                  |     0      |
+|            | +2     |        0                  |     0      |
 #### 2.2.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/formation-energy/energy_A-1.png)
 #### 2.2.2. $NV^{-1}$ defect: Kohn-Sham states
