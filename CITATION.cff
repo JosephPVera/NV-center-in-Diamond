@@ -1,5 +1,4 @@
 cff-version: 1.2.0
-note: "Research code for NV center in Diamond simulations."
 message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Panana"
@@ -10,3 +9,5 @@ title: "NV center in Diamond"
 doi: 
 date-released: 2025-03-09
 url: "https://github.com/JosephPVera/NV-center-Diamond"
+type: other  # This changes the default tag from [Computer software]
+note: "Research code for NV center in Diamond simulations."
