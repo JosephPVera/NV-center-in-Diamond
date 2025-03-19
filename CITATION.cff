@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Panana Vera"
+  given-names: "Joseph Ivan"
+  orcid: ""
+title: "NV center in Diamond"
+version: 1.0.0
+doi: 
+date-released: 2025-03-09
+url: "https://github.com/JosephPVera/NV-center-Diamond"
