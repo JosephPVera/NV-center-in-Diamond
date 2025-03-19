@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 authors:
-- family-names: "Panana Vera"
-  given-names: "Joseph Ivan"
+- family-names: "Panana"
+  given-names: "Joseph"
   orcid: ""
 title: "NV center in Diamond"
 version: 1.0.0
