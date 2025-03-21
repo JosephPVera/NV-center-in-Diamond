@@ -28,6 +28,7 @@ Using a supercell $3x3x3$.
 #### 2.2.2. $NV^{-1}$ defect: Kohn-Sham states
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/kohn-sham-states.png)
 #### 2.2.3. $NV^{-1}$ defect: Localized Kohn-Sham states
+![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/Spin_up-kpoint_1.png)
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/Spin_down-kpoint_1.png)
 
 ## 3. Representation
