@@ -33,3 +33,6 @@ Using a supercell $3x3x3$.
 ## 3. Representation
 Only well-localized states in gap.
 ![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/kohn-sham-states-8.png)
+
+Spin density
+![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/diamond.png)
