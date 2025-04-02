@@ -10,13 +10,24 @@
 | Experimental  | 5.47          |                   |
 
 ## 2. Dielectric tensor
+$$
+T = I + E
+$$
 ### 2.1. Ionic contribution
 $$
-A =
+I =
 \begin{bmatrix}
-a_{11} & a_{12} & a_{13} \\
-a_{21} & a_{22} & a_{23} \\
-a_{31} & a_{32} & a_{33}
+0 & 0 & 0 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+### 2.1. Electronic contribution
+E =
+\begin{bmatrix}
+5.857 & 0 & 0 \\
+0 & 5.857 & 0 \\
+0 & 0 & 5.857
 \end{bmatrix}
 $$
 
