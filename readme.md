@@ -11,10 +11,14 @@
 
 ## 2. Dielectric tensor
 ### 2.1. Ionic contribution
-Matrix A:
-| a11  a12  a13 |
-| a21  a22  a23 |
-| a31  a32  a33 |
+$$
+A =
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+a_{31} & a_{32} & a_{33}
+\end{bmatrix}
+$$
 
 ## 3. Point defects
 Using a supercell $3x3x3$.
