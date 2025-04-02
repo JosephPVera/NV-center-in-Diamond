@@ -23,6 +23,7 @@ I =
 \end{bmatrix}
 $$
 ### 2.1. Electronic contribution
+$$
 E =
 \begin{bmatrix}
 5.857 & 0 & 0 \\
