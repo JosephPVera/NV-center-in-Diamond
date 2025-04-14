@@ -56,7 +56,7 @@ Using a supercell $3x3x3$.
 
 ## 4. Representation
 Only well-localized states in gap.
-![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/kohn-sham-states-deg.png)
+![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/kohn-sham-states-deg-1.png)
 
 Spin density
 ![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/diamond.png)
