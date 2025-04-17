@@ -1,1 +1,1 @@
-Zero Phonon line (ZPL) for NV$^-1$ center diamond.
+Zero Phonon line (ZPL) for NV$$^-1$$ center diamond.
