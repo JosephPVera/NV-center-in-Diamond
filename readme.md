@@ -37,8 +37,10 @@ Using a supercell $3x3x3$.
 ### 3.1. PBE functional
 #### 3.1.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/PBE/formation-energy/energy_A-1.png)
+
 #### 3.1.2. $NV^{-1}$ defect: Kohn-Sham states
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/PBE/N_C-V_C_-1/band_index/kohn-sham-states.png)
+
 #### 3.1.3. $NV^{-1}$ defect: Localized Kohn-Sham states
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/PBE/N_C-V_C_-1/band_index/Spin_down-kpoint_1.png)
 
@@ -48,13 +50,18 @@ Using a supercell $3x3x3$.
 | $N_C-V_C$  | -1     |        2                  |     1      |
 #### 3.2.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/formation-energy/energy_A-1.png)
+
 #### 3.2.2. $NV^{-1}$ defect: Kohn-Sham states
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/kohn-sham-states.png)
+
 #### 3.2.3. $NV^{-1}$ defect: Localized Kohn-Sham states
 ![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/Spin_up-kpoint_1.png)
 ![Alt text](https://github.com/JosephPVera/NV-center-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/band_index/Spin_down-kpoint_1.png)
 
 ## 4. Representation
+Formation energy diagram
+![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/formation-energy-diagram/formation-energy-diagram-NV-diamond.png)
+
 Only well-localized states in gap.
 ![Alt text](https://github.com/JosephPVera/NV-center-in-Diamond/blob/main/Point-defects/HSE06/N_C-V_C_-1/kohn-sham-states-deg-1.png)
 
