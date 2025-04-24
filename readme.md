@@ -5,9 +5,9 @@
 ## 1. Bulk properties
 | Method        | Band gap (eV) | Lattice constants (Å) |
 | :-------------: |:-------------:|:---------------------:|
-| PBE           | 4.16          |     3.57              |
-| HSE06         | 5.37          |     3.55              | 
-| Experimental  | 5.47          |                   |
+| PBE           | 4.16          |     3.57                |
+| HSE06         | 5.37          |     3.55                | 
+| Experimental  | 5.47          |     3.57                |
 
 ## 2. Dielectric tensor
 $$
